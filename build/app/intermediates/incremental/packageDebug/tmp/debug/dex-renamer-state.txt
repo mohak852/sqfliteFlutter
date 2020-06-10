@@ -1,4 +1,0 @@
-#Tue Jun 09 22:21:55 IST 2020
-base.0=/home/hits/Desktop/tutorial-flutter-sqflite/build/app/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
